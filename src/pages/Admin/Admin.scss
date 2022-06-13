@@ -1,5 +1,5 @@
 .admin{
-
+    
     &-title{
         font-size: 40px;
         font-weight: 700;
@@ -13,10 +13,17 @@
         }
     }
 
+    &-address-wallet,
     &-subtitle{
         font-size: 30px;
         font-weight: 500;
         margin-bottom: 20px;
         text-align: center;
+    }
+
+    &-address-wallet{
+        font-size: 20px;
+        color: #049745;
+        font-weight: 700;
     }
 }

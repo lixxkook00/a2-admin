@@ -3,3 +3,9 @@
 html,body{
   box-sizing: border-box;
 }
+
+.wapper{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+}
